@@ -34,7 +34,7 @@ private readonly string connectionString = "Data Source=LAPTOP-4128Q006\SQLEXPRE
 ```csharp
 private readonly string connectionString = "Data Source=LAPTOP-4128Q006\SQLEXPRESS;Initial Catalog=crudform;Integrated Security=True;Encrypt=False;Trusted_Connection=True;";
 Database Schema:
-![Capture](https://github.com/user-attachments/assets/4beac07b-c0f2-4fac-86ca-102acb9c713e)
+
 
 
 
